@@ -16,6 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![alt text](img%201.png)
-![alt text](img 2.png)
-![alt text](img 3.png)
-![alt text](img 4.png)
+![alt text](img%202.png)
+
